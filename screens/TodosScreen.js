@@ -160,6 +160,7 @@ export default class TodosScreen extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: "#2a2a2a"
   },
   centered: {
     alignItems: 'center',
